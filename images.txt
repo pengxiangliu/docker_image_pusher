@@ -4,3 +4,4 @@ jenkins/jenkins:2.440.3
 jenkins/jenkins:2.463
 sonatype/nexus3:3.16.1
 mysql:5.6.36
+openjdk:8u222
