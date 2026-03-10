@@ -1,7 +1,4 @@
-jenkins/jenkins:2.350-jdk8
-jenkins/jenkins:2.426.3
-jenkins/jenkins:2.440.3
-jenkins/jenkins:2.463
-sonatype/nexus3:3.16.1
-mysql:5.6.36
-openjdk:8u222
+calico/node:v3.8.0
+calico/cni:v3.8.0
+calico/kube-controllers:v3.8.0
+calico/pod2daemon-flexvol:v3.8.0
