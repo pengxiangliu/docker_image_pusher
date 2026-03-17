@@ -1,1 +1,1 @@
-busybox:1.35
+nginx:1.14
