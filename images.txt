@@ -1,3 +1,1 @@
-nginx:1.14
-mysql:8.0
-new-api:latest
+calciumion/new-api:latest
