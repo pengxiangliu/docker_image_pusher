@@ -1,1 +1,1 @@
-calciumion/new-api:latest
+dataease/dataease:v2.10.26
